@@ -1,0 +1,29 @@
+############################# English ############################
+[en]
+languageName = "Pt"
+title = "Python para Dados Biológicos"
+contentDir = "content/portugues" # content/english
+weight = 1
+############ footer content ##########
+footer_menu_left = "Sobre nós"
+footer_menu_middle = "Workshop"
+footer_menu_right = "Ajuda"
+footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+### copyright
+copyright = "4º Workshop de Python para Dados Biológicos © 2021. Todos os Direitos Reservados."
+
+
+
+############################# Deutsch ############################
+#[de]
+#languageName = "De"
+#title = "Bigspring Hugo"
+#contentDir = "content/deutsch" # content/german
+#weight = 2
+############ footer content ##########
+#footer_menu_left = "Firma"
+#footer_menu_middle = "Produkte"
+#footer_menu_right = "Support"
+#footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+## copyright
+##copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)"

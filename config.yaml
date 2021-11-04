@@ -1,0 +1,11 @@
+baseURL: http://examplesite.org/
+title: Bigspring Light
+theme: bigspring-light
+paginate: '3'
+summaryLength: '15'
+disqusShortname: ''
+googleAnalytics: ''
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes

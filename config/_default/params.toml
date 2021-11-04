@@ -1,0 +1,41 @@
+#################### default parameters ################################
+logo = "images/logo.png"
+logo_width = "200px"
+# OpenGraph / Twitter Card metadata
+description = "Workshop de Python para Dados Biológicos"
+author = "WPDB"
+image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+
+# Type of pages to be rendered with a blog view
+blogCategoryType = "category"
+
+# Preloader
+[preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation buttons
+[navigation_button]
+enable = false
+label = "Get Started"
+link = "contact"
+
+# cookies
+[cookies]
+enable = false
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+  
+############################# social site ########################
+[[social]]
+title = "facebook"
+icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[social]]
+title = "email"
+icon = "fas fa-envelope" # themify icon : https://themify.me/themify-icons
+link = "#"
