@@ -11,7 +11,7 @@ Sim. Para os participantes com mais de 75% de presença nas atividades do evento
 {{</ faq >}}
 
 {{< faq "Fiz inscrição, mas não poderei comparecer. Preciso fazer algo?" >}}
-Caso não possa mais participar do evento, por favor, envie um e-mail para python4biodatabrazil@gmail.com até 7 dias úteis antes da data do evento (13/09/2021) informando seu nome completo e o email utilizado.
+Caso não possa mais participar do evento, por favor, envie um e-mail para python4biodatabrazil@gmail.com até 7 dias úteis antes da data do evento (15/09/2021) informando seu nome completo e o email utilizado.
 {{</ faq >}}
 
 {{< faq "Haverá taxa de incrição?" >}}
