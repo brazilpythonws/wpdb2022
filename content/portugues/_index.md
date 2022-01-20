@@ -2,8 +2,8 @@
 banner:
   button:
     enable: true
-    label: inscrições abertas!
-    link: 'https://google.com'
+    label: Inscrições abertas!
+    link: 
   content: Aplicação de Python na análise de dados biológicos!
   image: images/front-page-python.svg
   title: V Workshop Python<br>para Dados Biológicos
