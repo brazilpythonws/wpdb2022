@@ -14,29 +14,14 @@ name = "FAQ"
 url = "faq"
 weight = 3
 
-[[main]]
-name = "Contact"
-url = "contact"
-weight = 4
-
-[[main]]
-name = "FAQ"
-url = "faq"
-weight = 5
-
 # footer menu left
 [[footer_left]]
-name = "About Us"
-url = "#"
+name = "Nosso Grupo"
+url = "grupo"
 
 [[footer_left]]
-name = "Quick Start"
-url = "#"
-
-[[footer_left]]
-name = "Pricing"
-url = "pricing"
-
+name = "Edições anteriores"
+url = "ed-anteriores"
 
 # footer menu middle
 [[footer_middle]]
@@ -48,17 +33,8 @@ name = "Palestras"
 url = "palestras"
 
 [[footer_middle]]
-name = "Features"
-url = "#"
-
-# footer menu right
-[[footer_right]]
-name = "Privacy Policy"
-url = "privacy-policy"
-
-[[footer_right]]
-name = "Terms & Conditions"
-url = "terms-conditions"
+name = "Participantes Selecionados"
+url = "selecionados"
 
 [[footer_right]]
 name = "FAQ"

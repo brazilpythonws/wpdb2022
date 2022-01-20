@@ -1,42 +1,82 @@
 ---
-description: This is meta description
+description: Cronograma do Workshop
 draft: false
 subtitle: ""
-title: Palestras
+title: Cronograma
 ---
 
-<details><summary><h4 style='display:inline;'>23/09</h4></summary>
+<details><summary><h4 style='display:inline;'>Dia 1</h4></summary>
 <p>
 
 |Horário|Atividade|
 |-------|---------|
-|uehheu|auehuahh|
-|uaehuahe|uhefuhaef|
+|8h30|Abertura - Apresentação inicial|
+|9h-12h|Live coding: Introdução à linguagem Python|
+|12h-13h|Almoço|
+|13h-14h|Palestra|
+|14h-17h|Live coding: Introdução à linguagem Python|
+|17h-18h|Dúvidas|
 
 
 </p>
 </details>
 
 
-<details><summary><h4 style='display:inline;'>MitoHifi: encontrando e anotando moléculas circulares (29/09) </h4></summary>
+<details><summary><h4 style='display:inline;'>Dia 2</h4></summary>
 <p>
 
 |Horário|Atividade|
 |-------|---------|
-|uehheu|auehuahh|
-|uaehuahe|uhefuhaef|
+|8h30 |Introdução à linguagem Python|
+|10h - 10h30|Coffee-break|
+|10h30 - 12h|Revisão de estatística básica usando Python|
+|12h - 13h|Almoço|
+|13h - 13h40|Palestra|
+|14h - 15h30|Revisão de estatística básica usando Python|
+|15h30 - 16h|Coffee-break|
+|16h - 18h|Revisão de estatística básica usando Python|
 
 
 </p>
 </details>
 
-<details><summary><h4 style='display:inline;'>23/09</h4></summary>
+<details><summary><h4 style='display:inline;'>Dia 3</h4></summary>
+<p>
+
+> Dia reservado para atividade em grupo
+
+
+</p>
+</details>
+
+<details><summary><h4 style='display:inline;'>Dia 4</h4></summary>
+<p>
+
+|Horário|Atividade|
+|8h-10h|Apresenção dos grupos|
+|10h|Apresentação inicial|
+|10h30-12h|Live coding: exploração aprofundada de dados epidemiológicos|
+|12h-13h|Almoço|
+|13h-14h|Palestra|
+|14h-17h|Live coding: exploração aprofundada de dados epidemiológicos|
+|17h-18h|Dúvidas|
+
+
+</p>
+</details>
+
+<details><summary><h4 style='display:inline;'>Dia 5</h4></summary>
 <p>
 
 |Horário|Atividade|
 |-------|---------|
-|uehheu|auehuahh|
-|uaehuahe|uhefuhaef|
+|8h30|Apresentação inicial|
+|9h-12h|Live coding: exploração aprofundada de dados de diversidade biológica|
+|12h-13h|Almoço|
+|13h-14h|Palestra|
+|14h-15h|Flash talks|
+|15h-17h|Live coding: exploração aprofundada de dados de diversidade biológica|
+|17h-18h|Fechamento do workshop|
 
 
 </p>

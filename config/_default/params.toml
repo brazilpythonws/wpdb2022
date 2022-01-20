@@ -31,11 +31,16 @@ button = "I Accept"
   
 ############################# social site ########################
 [[social]]
-title = "facebook"
-icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[social]]
 title = "email"
 icon = "fas fa-envelope" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "mailto:python4biodatabrazil@gmail.com"
+
+[[social]]
+title = "twitter"
+icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
+link = "https://www.twitter.com/brazilpythonws"
+
+[[social]]
+title = "instagram"
+icon = "fab fa-instagram" # themify icon : https://themify.me/themify-icons
+link = "https://www.instagram.com/brazilpythonws/"

@@ -8,7 +8,7 @@ weight = 1
 footer_menu_left = "Sobre nós"
 footer_menu_middle = "Workshop"
 footer_menu_right = "Ajuda"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_content = "**IV Workshop Python para Dados Biológicos**: Aplicação de Python na análise de dados biológicos!"
 ### copyright
 copyright = "4º Workshop de Python para Dados Biológicos © 2021. Todos os Direitos Reservados."
 

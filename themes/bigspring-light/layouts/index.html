@@ -30,6 +30,7 @@
     <div class="row justify-content-center">
       <div class="col-12 text-center">
         <h2 class="section-title">{{ .title | markdownify }}</h2>
+        <p>(datas provisórias)</p>
       </div>
       {{ range .feature_item }}
       <div class="col-md-4 col-sm-6 mb-4">
@@ -121,7 +122,20 @@
           {{ with .image }} <img src="{{ . | relURL }}" alt="card imadge" style="width:120px;height:120px;border-radius:50%;">{{ end }}
           <h5 class="mb-2">{{ .name | markdownify }}</h5>
           <p>{{ .titulo | markdownify }}<br>
-          {{ .faculdade | markdownify }}
+          {{ .faculdade | markdownify }}<br>
+          {{ if .github }} 
+          <a href="{{ .github }}" class="social-icons">
+            <i class="fab fa-github" ></i></a>
+          {{ end }}
+          {{ if .linkedin }} <a href="{{ .linkedin }}">
+               <i class="fab fa-linkedin"></i></a>
+          {{ end }}
+          {{ if .lattes }}<a href="{{ .lattes }}">
+               <i class="ai ai-lattes"></i></a>
+          {{ end }}
+          {{ if .instagram }}<a href="{{ .instagram }}">
+               <i class="fab fa-instagram"></i></a>
+          {{ end }}
         </div>
       </div>
       {{ end }}
