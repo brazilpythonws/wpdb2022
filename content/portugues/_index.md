@@ -3,10 +3,10 @@ banner:
   button:
     enable: true
     label: inscrições abertas!
-    link: contact
+    link: 'https://google.com'
   content: Aplicação de Python na análise de dados biológicos!
   image: images/front-page-python.svg
-  title: IV Workshop Python<br>para Dados Biológicos
+  title: V Workshop Python<br>para Dados Biológicos
 
 feature:
   enable: true
@@ -31,10 +31,10 @@ equipe:
   enable: true
   equipe_item:
   - name: Alessandro de Mello Varani
-    titulo: Prof. Dr. (Genômica e Bioinformática)
+    titulo: Professor Doutor
     faculdade: Universidade Estadual Paulista<br>(UNESP-Jaboticabal)
     image: images/membros/alessandro.jpeg
-    lattes:
+    lattes: http://lattes.cnpq.br/9429712259649346
     linkedin:
     github:
     instagram:
@@ -105,11 +105,11 @@ equipe:
   - name: Matheus Scaketti
     titulo: Mestrando em Genética e Biologia Molecular
     faculdade: Universidade Estadual de Campinas<br>(UNICAMP)
-    image: images/membros/user.png
-    lattes:
-    linkedin:
-    github:
-    instagram:
+    image: images/membros/matheus.JPG
+    lattes: http://lattes.cnpq.br/8116573931801320
+    linkedin: https://www.linkedin.com/in/matheusscaketti/
+    github: https://github.com/Scaketti
+    instagram: https://www.instagram.com/scaketti
 #--------------
   - name: Michelli Inacio Gonçalves
     titulo: Doutoranda em Microbiologia Agropecuária

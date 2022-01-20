@@ -1,16 +1,16 @@
 ############################# English ############################
 [en]
 languageName = "Pt"
-title = "Python para Dados Biológicos"
+title = "WPDB 2022"
 contentDir = "content/portugues" # content/english
 weight = 1
 ############ footer content ##########
 footer_menu_left = "Sobre nós"
 footer_menu_middle = "Workshop"
 footer_menu_right = "Ajuda"
-footer_content = "**IV Workshop Python para Dados Biológicos**: Aplicação de Python na análise de dados biológicos!"
+footer_content = "**V Workshop Python para Dados Biológicos**: Aplicação de Python na análise de dados biológicos!"
 ### copyright
-copyright = "4º Workshop de Python para Dados Biológicos © 2021. Todos os Direitos Reservados."
+copyright = "5º Workshop de Python para Dados Biológicos © 2022. Todos os Direitos Reservados."
 
 
 
