@@ -212,7 +212,9 @@ apoio:
    - image: images/apoio/unesp.png
    - image: images/apoio/Botucatu-IB.png
    - image: images/apoio/PGmicro.gif
+   - image: images/apoio/cena.png
+   - image: images/apoio/dc.png
    - image: images/apoio/PPGEsalq.jpg
-   - image: images/apoio/alfahelix.png
+   - image: images/apoio/fealq.png
   title: Apoio
 ---
