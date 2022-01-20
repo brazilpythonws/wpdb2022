@@ -2,7 +2,7 @@
 banner:
   button:
     enable: true
-    label: Inscrições abertas!
+    label: Inscrições em breve...
     link: 
   content: Aplicação de Python na análise de dados biológicos!
   image: images/front-page-python.svg
