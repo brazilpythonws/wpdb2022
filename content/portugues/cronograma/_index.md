@@ -53,6 +53,7 @@ title: Cronograma
 <p>
 
 |Horário|Atividade|
+|-------|---------|
 |8h-10h|Apresenção dos grupos|
 |10h|Apresentação inicial|
 |10h30-12h|Live coding: exploração aprofundada de dados epidemiológicos|

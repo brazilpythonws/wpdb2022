@@ -5,7 +5,7 @@ banner:
     label: Inscrições em breve...
     link: 
   content: Aplicação de Python na análise de dados biológicos!
-  image: images/front-page-python.svg
+  image: images/front-page-python-clean.svg
   title: V Workshop Python<br>para Dados Biológicos
 
 feature:
@@ -16,12 +16,12 @@ feature:
     name: Inscrições
   - content: 28 de agosto de 2022
     icon: fas fa-users
-    name: Divulgação dos Selecionados
+    name: Primeira Lista de Participantes
   - content: 28 de agosto e 28 de setembro de 2022
     icon: fas fa-user-clock
     name: Chamadas da Lista de Espera	
   - content: 06 de setembro de 2022
-    icon: fas fa-list-ul
+    icon: fas fa-users
     name: Lista Final de Participantes	
   - content: 26 a 30 de setembro de 2022
     icon: fas fa-calendar-alt
@@ -195,9 +195,9 @@ service:
     title: Motivação
   - button:
       enable: true
-      label: Critérios de Seleção
+      label: Ver Critérios de Seleção
       link: '/criterios-de-selecao'
-    content: " O número de vagas é limitado a 40 participantes. Portanto, haverá um período de seleção dos participantes visando atender os mais necessitados ao evento. O público-alvo principal do evento são alunos de graduação e pós-graduação da área de Ciências Biológicas com pouco ou nenhum conhecimento em programação e que estejam envolvidos em alguma pesquisa atualmente em desenvolvimento cujos problemas necessitam de uma solução computacional."
+    content: "O número de vagas é limitado a 40 pessoas. Portanto, haverá um período de seleção, visando atender quem mais se encaixar no critério de justificativa de participação ao evento. O público-alvo principal do evento são estudantes de graduação e pós-graduação da área de Ciências Biológicas, com pouco ou nenhum conhecimento em programação e que estejam envolvidos em alguma pesquisa atualmente em desenvolvimento cujos problemas necessitam de uma solução computacional."
     title: Seleção
   - button:
       enable: true
