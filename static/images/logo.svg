@@ -4,14 +4,41 @@
 <svg
    version="1.1"
    id="svg66264"
-   width="163.04985"
+   width="130.47714"
    height="39.155464"
-   viewBox="0 0 163.04985 39.155464"
+   viewBox="0 0 130.47714 39.155464"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1.1 (50ffc5b540, 2022-01-11)"
+   inkscape:export-filename="/home/vinicius/Documents/RESEARCH/WorkshopPython/Bigspring/static/images/logo.png"
+   inkscape:export-xdpi="149.97"
+   inkscape:export-ydpi="149.97"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs66268" />
+  <sodipodi:namedview
+     id="namedview66266"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.9999999"
+     inkscape:cx="81.500002"
+     inkscape:cy="25.166667"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g66270" />
   <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
      id="g66270"
      transform="translate(-0.27766991,0.02679443)">
     <text
@@ -20,6 +47,7 @@
        x="7.433435"
        y="11.521779"
        id="text18809"><tspan
+         sodipodi:role="line"
          id="tspan18807"
          x="7.433435"
          y="11.521779"
@@ -27,11 +55,13 @@
     <path
        style="fill:none;stroke:#3b77ab;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
        d="m 8.3183139,34.761298 2.5594991,-0.09369 c 0,0 9.371627,-0.472612 4.272362,-7.253531"
-       id="path37510" />
+       id="path37510"
+       sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#3b77ab;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
        d="m 29.093942,16.077473 -12.928161,0.07521 c 0,0 -8.0038171,3.403392 -2.003802,10.066152"
-       id="path37512" />
+       id="path37512"
+       sodipodi:nodetypes="ccc" />
     <g
        id="g66434"
        transform="matrix(1.1909227,0,0,1.1909227,-6.7115419,-3.9098994)">
@@ -88,13 +118,14 @@
        r="19.077732" />
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:32px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';word-spacing:0px"
+       style="font-weight:bold;font-size:24px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';word-spacing:0px"
        x="49.322411"
-       y="30.925938"
+       y="28.082188"
        id="text85298"><tspan
+         sodipodi:role="line"
          id="tspan85296"
          x="49.322411"
-         y="30.925938"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'">WPDB</tspan></text>
+         y="28.082188"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold'">WPDB</tspan></text>
   </g>
 </svg>

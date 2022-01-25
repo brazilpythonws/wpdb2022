@@ -216,5 +216,6 @@ apoio:
    - image: images/apoio/dc.png
    - image: images/apoio/PPGEsalq.jpg
    - image: images/apoio/fealq.png
+   - image: images/apoio/alfahelix.png
   title: Apoio
 ---
