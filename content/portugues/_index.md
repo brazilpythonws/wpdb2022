@@ -38,15 +38,6 @@ equipe:
     linkedin:
     github:
     instagram:
-#---------------
-  - name: Anaclara Picelli
-    titulo: Doutoranda em Ciências
-    faculdade: Universidade de São Paulo<br>(USP-São Paulo)
-    image: images/membros/anaclara.jpg
-    lattes: http://lattes.cnpq.br/5879829790956031
-    linkedin: https://www.linkedin.com/in/anaclarapincelli/
-    github: https://gitlab.com/anapincelli
-    instagram:
 #--------------
   - name: Diego M. Riaño Pachón
     titulo: Professor Doutor
@@ -55,15 +46,6 @@ equipe:
     lattes: http://lattes.cnpq.br/2580825196325707
     linkedin: https://www.linkedin.com/in/diegorianopachon
     github: https://github.com/labbces/
-    instagram:
-#--------------
-  - name: Gabriel Margarido
-    titulo: Professor Doutor 
-    faculdade: Universidade de São Paulo<br>(USP-ESALQ)
-    image: images/membros/gabriel.JPG
-    lattes: http://lattes.cnpq.br/3812059891202992
-    linkedin: https://www.linkedin.com/in/gabrielmargarido/
-    github:
     instagram:
 #--------------
   - name: Gustavo Crestana
