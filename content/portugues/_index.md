@@ -30,14 +30,6 @@ feature:
 equipe:
   enable: true
   equipe_item:
-  - name: Alessandro de Mello Varani
-    titulo: Professor Doutor
-    faculdade: Universidade Estadual Paulista<br>(UNESP-Jaboticabal)
-    image: images/membros/alessandro.jpeg
-    lattes: http://lattes.cnpq.br/9429712259649346
-    linkedin:
-    github:
-    instagram:
 #--------------
   - name: Diego M. Riaño Pachón
     titulo: Professor Doutor
@@ -179,12 +171,12 @@ service:
       enable: true
       label: Ver Critérios de Seleção
       link: '/criterios-de-selecao'
-    content: "O número de vagas é limitado a 40 pessoas. Portanto, haverá um período de seleção, visando atender quem mais se encaixar no critério de justificativa de participação ao evento. O público-alvo principal do evento são estudantes de graduação e pós-graduação da área de Ciências Biológicas, com pouco ou nenhum conhecimento em programação e que estejam envolvidos em alguma pesquisa atualmente em desenvolvimento cujos problemas necessitam de uma solução computacional."
+    content: "O número de vagas é limitado a 40 participantes. Portanto, haverá um período de seleção dos participantes visando atender aos que mais se encaixem nos critérios de seleção do evento."
     title: Seleção
   - button:
       enable: true
       label: Ler Código de Conduta
-      link: '#'
+      link: '/arquivos/cod_conduta_2022.pdf'
     content:
     title: Código de Conduta
     
@@ -193,7 +185,6 @@ apoio:
   apoio_item:
    - image: images/apoio/unesp.png
    - image: images/apoio/Botucatu-IB.png
-   - image: images/apoio/PGmicro.gif
    - image: images/apoio/cena.png
    - image: images/apoio/dc.png
    - image: images/apoio/PPGEsalq.jpg

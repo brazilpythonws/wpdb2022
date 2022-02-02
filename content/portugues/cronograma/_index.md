@@ -5,7 +5,7 @@ subtitle: ""
 title: Cronograma
 ---
 
-<details><summary><h4 style='display:inline;'>Dia 1</h4></summary>
+<details><summary><h4 style='display:inline;'>Dia 1 - segunda-feira (26/09/2022)</h4></summary>
 <p>
 
 |Horário|Atividade|
@@ -22,7 +22,7 @@ title: Cronograma
 </details>
 
 
-<details><summary><h4 style='display:inline;'>Dia 2</h4></summary>
+<details><summary><h4 style='display:inline;'>Dia 2 - terça-feira (27/09/2022)</h4></summary>
 <p>
 
 |Horário|Atividade|
@@ -40,7 +40,7 @@ title: Cronograma
 </p>
 </details>
 
-<details><summary><h4 style='display:inline;'>Dia 3</h4></summary>
+<details><summary><h4 style='display:inline;'>Dia 3 - quarta-feira (28/09/2022)</h4></summary>
 <p>
 
 > Dia reservado para atividade em grupo
@@ -49,7 +49,7 @@ title: Cronograma
 </p>
 </details>
 
-<details><summary><h4 style='display:inline;'>Dia 4</h4></summary>
+<details><summary><h4 style='display:inline;'>Dia 4 - quinta-feira (29/09/2022)</h4></summary>
 <p>
 
 |Horário|Atividade|
@@ -66,7 +66,7 @@ title: Cronograma
 </p>
 </details>
 
-<details><summary><h4 style='display:inline;'>Dia 5</h4></summary>
+<details><summary><h4 style='display:inline;'>Dia 5 - sexta-feira (30/09/2022)</h4></summary>
 <p>
 
 |Horário|Atividade|
