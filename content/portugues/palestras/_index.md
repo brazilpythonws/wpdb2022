@@ -9,7 +9,7 @@ title: Palestras
 
 <div class="card-columns">
 <div class="card">
-  <img class="card-img-top" src="images/palestras/bruno1.jpg" alt="Card image cap">
+  <img class="card-img-top" src="/images/palestras/bruno1.jpg" alt="Card image cap">
   <div class="card-body">
     <h4 class="card-title">Boas práticas de programação e reprodutibilidade de scripts Python</h4>
     <h5>Me. Bruno Iochins Grisci</h5>
