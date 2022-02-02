@@ -187,7 +187,6 @@ apoio:
    - image: images/apoio/Botucatu-IB.png
    - image: images/apoio/cena.png
    - image: images/apoio/dc.png
-   - image: images/apoio/PPGEsalq.jpg
    - image: images/apoio/fealq.png
    - image: images/apoio/alfahelix.png
   title: Apoio
