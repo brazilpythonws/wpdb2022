@@ -10,9 +10,14 @@ url = "cronograma"
 weight = 2
 
 [[main]]
+name = "Palestras"
+url = "palestras"
+weight = 3
+
+[[main]]
 name = "FAQ"
 url = "faq"
-weight = 3
+weight = 4
 
 # footer menu left
 [[footer_left]]
