@@ -34,7 +34,7 @@ title: Palestras
 </div>
 
 <div class="card">
-  <img class="card-img-top" src="images/palestras/beatriz.png" alt="Beatriz">
+  <img class="card-img-top" src="/images/palestras/beatriz.png" alt="Beatriz">
   <div class="card-body">
     <h4 class="card-title">Título a confirmar</h4>
     <h5>Beatriz Rodrigues Estevam</h5>
