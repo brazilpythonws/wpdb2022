@@ -32,19 +32,21 @@ title: Palestras
      <a href="https://instagram.com/bigrisci" class="card-link"><i class="fab fa-instagram fa-2x"></i> </a></p>
    </div>
 </div>
-<!---
+
 <div class="card">
-  <img class="card-img-top" src="images/palestras/bruno.jpg" alt="Card image cap">
+  <img class="card-img-top" src="images/palestras/beatriz.png" alt="Beatriz">
   <div class="card-body">
-    <h4 class="card-title">Boas práticas de programação e reprodutibilidade de scripts Python</h4>
-    <h5>Me. Bruno Iochins Grisci</h5>
-    <h6 class="card-title mb-2 text-muted">Universidade Federal do Rio Grande do Sul (UFRGS)</h6>
-     <p class="card-text"><i class="fas fa-calendar" ></i> 29/09/22 <br>
-     <a href="https://twitter.com/BrunoGrisci" class="card-link"><i class="fab fa-twitter" ></i>BrunoGrisci</a><br>
-     <a href="https://instagram.com/bigrisci" class="card-link"><i class="fab fa-instagram" ></i> bigrisci</a></p>
+    <h4 class="card-title">Título a confirmar</h4>
+    <h5>Beatriz Rodrigues Estevam</h5>
+    <h6 class="card-title mb-2 text-muted">Escola Superior de Agricultura "Luiz de Queiroz" - ESALQ/USP e Centro de Energia Nuclear na Agricultura da Universidade de São Paulo - CENA/USP</h6>
+     <p class="card-text"><i class="fas fa-calendar" ></i> Dia 5 - sexta (30/09/22) <br>
+     <a href="https://orcid.org/0000-0003-4083-5881" class="card-link"><i class="ai ai-orcid ai-2x" ></i></a>
+     <a href="https://twitter.com/BiaREstevam" class="card-link"><i class="fab fa-twitter fa-2x" ></i></a>
+     <a href="https://instagram.com/bia_r.e" class="card-link"><i class="fab fa-instagram fa-2x"></i> </a></p>
    </div>
 </div>
 
+<!---
 <div class="card" style="width: 18rem;">
   <img class="card-img-top" src="images/palestras/bruno.jpg" alt="Card image cap">
   <div class="card-body">
