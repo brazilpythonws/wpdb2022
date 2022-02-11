@@ -58,8 +58,8 @@ equipe:
     github:
     instagram: https://www.instagram.com/jbmalaquias
 #--------------
-  - name: Larissa Braga
-    titulo: Mestre em Genética e Melhoramento Animal
+  - name: Larissa Graciano Braga
+    titulo: Doutoranda em Ciência Animal
     faculdade: Universidade Estadual Paulista<br>(UNESP-Jaboticabal)
     image: images/membros/larissa.jpg
     lattes: http://lattes.cnpq.br/6729228830034198
@@ -114,7 +114,7 @@ equipe:
 #--------------
   - name: Renato Augusto Corrêa dos Santos
     titulo: Doutor em Genética e Biologia Molecular
-    faculdade: Universidade Estadual de Campinas<br>(UNICAMP)
+    faculdade: 
     image: images/membros/renato.JPG
     lattes: http://lattes.cnpq.br/3339727232509001
     linkedin: https://www.linkedin.com/in/renato-augusto-corr%C3%AAa-dos-santos-263202132/
@@ -187,6 +187,7 @@ apoio:
    - image: images/apoio/Botucatu-IB.png
    - image: images/apoio/cena.png
    - image: images/apoio/dc.png
+   - image: images/apoio/ufscar.png
    - image: images/apoio/fealq.png
    - image: images/apoio/alfahelix.png
   title: Apoio

@@ -21,6 +21,19 @@ title: Palestras
 </div>
 
 <div class="card">
+  <img class="card-img-top" src="/images/palestras/joao.png" alt="João">
+  <div class="card-body">
+    <h4 class="card-title">Título a confirmar</h4>
+    <h5>João Gabriel Rodinho Nunes Ferreira</h5>
+    <h6 class="card-title mb-2 text-muted">Escola Superior de Agricultura "Luiz de Queiroz" - ESALQ/USP e Centro de Energia Nuclear na Agricultura da Universidade de São Paulo - CENA/USP</h6>
+     <p class="card-text"><i class="fas fa-calendar" ></i> Dia 3 - quarta (30/09/22) <br>
+     <a href="http://lattes.cnpq.br/6599020545921081" class="card-link"><i class="ai ai-lattes ai-2x" ></i></a>
+     <a href="https://twitter.com/FerreiranunesJ" class="card-link"><i class="fab fa-twitter fa-2x" ></i></a>
+     <a href="https://instagram.com/jgnunes" class="card-link"><i class="fab fa-instagram fa-2x"></i> </a></p>
+   </div>
+</div>
+
+<div class="card">
   <img class="card-img-top" src="/images/palestras/bruno1.jpg" alt="Bruno">
   <div class="card-body">
     <h4 class="card-title">Boas práticas de programação e reprodutibilidade de scripts Python</h4>
@@ -46,7 +59,7 @@ title: Palestras
    </div>
 </div>
 
-<!---
+
 <div class="card" style="width: 18rem;">
   <img class="card-img-top" src="images/palestras/bruno.jpg" alt="Card image cap">
   <div class="card-body">
