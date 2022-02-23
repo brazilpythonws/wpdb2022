@@ -27,3 +27,7 @@ O **Workshop** foi estruturado para abranger quatro dias de aprendizado imersivo
 • **Dia 4 – Praticando**: O último dia do evento teve 2 horas de codificação ao vivo focadas na avaliação de uma montagem do genoma, onde grupo de alunos deveriam identificar os comandos mais adequados para resolver a tarefa.
 
 Desde 2020, a comunicação entre alunos e a organização acontece na plataforma Slack e as palestras por meio do Google Meet. Além disso, a implementação de cadernos digitais do Google Colab durante as aulas "live coding", tornou o processo ainda mais interativo.
+
+## Referências
+
+[Zuvanov, L., Basso Garcia, A. L., Correr, F. H., Bizarria Jr, R., Filho, A. P. D. C., da Costa, A. H., ... & Corrêa dos Santos, R. A. (2021). The experience of teaching introductory programming skills to bioscientists in Brazil. PLoS computational biology, 17(11), e1009534.](](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009534))
