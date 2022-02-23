@@ -11,7 +11,7 @@ O evento é organizado por alunos de graduação, pós-graduação e apoiado por
 
 <figure class="figure">
   <img src="/images/grupo/fig1.png" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
-  <figcaption class="figure-caption">**Figura 1**: Conhecimento prévio de programação dos participantes. A maioria dos participantes relatou pouca ou nenhuma experiência com programação em geral (azul) ou python em particular (amarelo) (adaptada de Zuvanov et al., 2021).</figcaption>
+  <figcaption class="figure-caption"><b>Figura 1</b>: Conhecimento prévio de programação dos participantes. A maioria dos participantes relatou pouca ou nenhuma experiência com programação em geral (azul) ou python em particular (amarelo) (adaptada de Zuvanov et al., 2021).</figcaption>
 </figure>
 
 ## E como aconteceu?
