@@ -31,6 +31,15 @@ equipe:
   enable: true
   equipe_item:
 #--------------
+  - name: Claudia Barros Monteiro-Vitorello
+    titulo: Professora Associada
+    faculdade: Universidade de São Paulo<br>(USP-ESALQ)
+    image: images/membros/user.png
+    lattes: http://lattes.cnpq.br/6714385683554087
+    linkedin: 
+    github: 
+    instagram:
+#--------------
   - name: Diego M. Riaño Pachón
     titulo: Professor Doutor
     faculdade: Universidade de São Paulo<br>(USP-São Paulo)
