@@ -19,7 +19,15 @@ A seleção dos participantes será efetuada pela comissão de seleção e segui
 
 * Envolvidos em projeto de pesquisa incluindo análise de dados biológicos;
 * Com pouco ou nenhum conhecimento em programação;
-* Que apresentarem a melhor justificativa de participação (carta de motivação[^1]), suportada pelo CV/requisitos supramencionados.
+* Que apresentarem a melhor justificativa de participação (carta de motivação), suportada pelo CV/requisitos supramencionados.
+
+<div class="card border-info mb-3" style="max-width: 18rem;">
+  <div class="card-header">Sugestão para a carta de motivação (estrutura)</div>
+  <div class="card-body text-info">
+    <h5 class="card-title">Info card title</h5>
+    <p class="card-text">Faça uma apresentação sucinta de sua experiência acadêmica e sobre seu projeto de pesquisa. Se possuir, comente sobre seus dados e suas experiências com programação. <br> **Motivação**: Descreva o motivo/problemática envolvida na sua pesquisa em desenvolvimento, cujos problemas necessitam de uma solução computacional. <br>**Contribuição**: Descreva de que forma o curso irá contribuir para o desenvolvimento do seu projeto e para análise de seus dados.</p>
+  </div>
+</div>
 
 ##### 2.2. Serão selecionados participantes em diferentes níveis de formação superior (mestrado, doutorado, pós-doutorado e iniciação científica), sendo:
 
@@ -30,7 +38,3 @@ A seleção dos participantes será efetuada pela comissão de seleção e segui
 
 * Maximização do número de instituições de ensino e pesquisa (instituições públicas e privadas em diferentes regiões do país);
 * Serão garantidas 8 vagas (20%) a alunos do Centro Nuclear na Agricultura, da Universidade de São Paulo (justificado pelo apoio institucional ao evento).
-
-
-
-[^1]: **Sugestão para a carta de motivação (estrutura)**: <br>**Apresentação**: Faça uma apresentação sucinta de sua experiência acadêmica e sobre seu projeto de pesquisa. Se possuir, comente sobre seus dados e suas experiências com programação. <br> **Motivação**: Descreva o motivo/problemática envolvida na sua pesquisa em desenvolvimento, cujos problemas necessitam de uma solução computacional. <br>**Contribuição**: Descreva de que forma o curso irá contribuir para o desenvolvimento do seu projeto e para análise de seus dados.
