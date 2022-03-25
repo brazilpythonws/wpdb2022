@@ -22,7 +22,7 @@ A seleção dos participantes será efetuada pela comissão de seleção e segui
 * Que apresentarem a melhor justificativa de participação (carta de motivação), suportada pelo CV/requisitos supramencionados.
 
 <div class="card bg-light mb-3">
-  <div class="card-header">Sugestão de estrutura para carta de motivação</div>
+  <div class="card-header"><b>Sugestão de estrutura para carta de motivação</b></div>
   <div class="card-body">
     <h5 class="card-title">Faça uma apresentação sucinta de sua experiência acadêmica e sobre seu projeto de pesquisa. Se possuir, comente sobre seus dados e suas experiências com programação.</h5>
     <p class="card-text">
