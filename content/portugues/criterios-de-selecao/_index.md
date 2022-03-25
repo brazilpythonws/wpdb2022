@@ -24,13 +24,16 @@ A seleção dos participantes será efetuada pela comissão de seleção e segui
 <div class="card bg-light mb-3">
   <div class="card-header"><b>Sugestão de estrutura para carta de motivação</b></div>
   <div class="card-body">
-    <h5 class="card-title">Faça uma apresentação sucinta de sua experiência acadêmica e sobre seu projeto de pesquisa. Se possuir, comente sobre seus dados e suas experiências com programação.</h5>
     <p class="card-text">
       <ul>
+        <li><b>Apresentação:</b>Faça uma apresentação sucinta de sua experiência acadêmica e sobre seu projeto de pesquisa. Se possuir, comente sobre seus dados e suas experiências com programação.</li>
        <li><b>Motivação</b>: Descreva o motivo/problemática envolvida na sua pesquisa em desenvolvimento cujos problemas necessitam de uma solução computacional.</li>
     <li><b>Contribuição</b>: Descreva de que forma o curso irá contribuir para o desenvolvimento do seu projeto e para análise de seus dados.</li>
   </ul>
     </p>
+  <blockquote class="blockquote">
+  <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+</blockquote>
   </div>
 </div>
 
