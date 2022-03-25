@@ -21,14 +21,14 @@ A seleção dos participantes será efetuada pela comissão de seleção e segui
 * Com pouco ou nenhum conhecimento em programação;
 * Que apresentarem a melhor justificativa de participação (carta de motivação), suportada pelo CV/requisitos supramencionados.
 
-<div class="card bg-light" style="max-width: 18rem;">
+<div class="card bg-light mb-1" style="max-width: 18rem;">
   <div class="card-header">Header</div>
   <div class="card-body">
     <p class="card-text">
       <ul>
        <li>Faça uma apresentação sucinta de sua experiência acadêmica e sobre seu projeto de pesquisa. Se possuir, comente sobre seus dados e suas experiências com programação.</li>
-    <li>**Motivação**: Descreva o motivo/problemática envolvida na sua pesquisa em desenvolvimento, cujos problemas necessitam de uma solução computacional.</li>
-    <li>**Contribuição**: Descreva de que forma o curso irá contribuir para o desenvolvimento do seu projeto e para análise de seus dados.</li>
+        <li><b>Motivação</b>: Descreva o motivo/problemática envolvida na sua pesquisa em desenvolvimento, cujos problemas necessitam de uma solução computacional.</li>
+    <li><b>Contribuição</b>: Descreva de que forma o curso irá contribuir para o desenvolvimento do seu projeto e para análise de seus dados.</li>
   </ul>
     </p>
   </div>
