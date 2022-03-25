@@ -21,8 +21,8 @@ A seleção dos participantes será efetuada pela comissão de seleção e segui
 * Com pouco ou nenhum conhecimento em programação;
 * Que apresentarem a melhor justificativa de participação (carta de motivação), suportada pelo CV/requisitos supramencionados.
 
-<div class="card bg-light mb-0" style="max-width: 18rem;">
-  <div class="card-header">Header</div>
+<div class="card bg-light mb-3">
+  <div class="card-header">Sugestão de estrutura para carta de motivação</div>
   <div class="card-body">
     <p class="card-text">
       <ul>
