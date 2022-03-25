@@ -32,7 +32,7 @@ A seleção dos participantes será efetuada pela comissão de seleção e segui
   </ul>
     </p>
   <blockquote class="blockquote">
-  <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+  <p class="mb-0">Nota: devido à menor experiência com pesquisa de estudantes de graduação, a carta de motivação será o principal critério de seleção para este público.</p>
 </blockquote>
   </div>
 </div>
