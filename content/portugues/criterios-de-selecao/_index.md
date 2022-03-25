@@ -26,7 +26,7 @@ A seleção dos participantes será efetuada pela comissão de seleção e segui
   <div class="card-body">
     <p class="card-text">
       <ul>
-        <li><b>Apresentação:</b>Faça uma apresentação sucinta de sua experiência acadêmica e sobre seu projeto de pesquisa. Se possuir, comente sobre seus dados e suas experiências com programação.</li>
+        <li><b>Apresentação:</b> Faça uma apresentação sucinta de sua experiência acadêmica e sobre seu projeto de pesquisa. Se possuir, comente sobre seus dados e suas experiências com programação.</li>
        <li><b>Motivação</b>: Descreva o motivo/problemática envolvida na sua pesquisa em desenvolvimento cujos problemas necessitam de uma solução computacional.</li>
     <li><b>Contribuição</b>: Descreva de que forma o curso irá contribuir para o desenvolvimento do seu projeto e para análise de seus dados.</li>
   </ul>
