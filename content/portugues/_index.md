@@ -115,7 +115,7 @@ equipe:
   - name: Raissa Melo de Sousa
     titulo: Doutoranda em Genética e Biologia Molecular
     faculdade: Universidade Federal do Pará<br>(UFPA)
-    image: images/membros/user.png
+    image: images/membros/raissa.png
     lattes: http://lattes.cnpq.br/4478932426760006
     linkedin: https://www.linkedin.com/in/raissa-sousa-057ab7169
     github: https://github.com/Raissa-melo
