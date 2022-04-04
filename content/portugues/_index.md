@@ -34,7 +34,7 @@ equipe:
   - name: Claudia Barros Monteiro-Vitorello
     titulo: Professora Associada
     faculdade: Universidade de São Paulo<br>(USP-ESALQ)
-    image: images/membros/user.png
+    image: images/membros/claudia.png
     lattes: http://lattes.cnpq.br/6714385683554087
     linkedin: 
     github: 
@@ -43,7 +43,7 @@ equipe:
   - name: Diego M. Riaño Pachón
     titulo: Professor Doutor
     faculdade: Universidade de São Paulo<br>(USP-São Paulo)
-    image: images/membros/user.png
+    image: images/membros/diego.jpg
     lattes: http://lattes.cnpq.br/2580825196325707
     linkedin: https://www.linkedin.com/in/diegorianopachon
     github: https://github.com/labbces/
@@ -115,7 +115,7 @@ equipe:
   - name: Raissa Melo de Sousa
     titulo: Doutoranda em Genética e Biologia Molecular
     faculdade: Universidade Federal do Pará<br>(UFPA)
-    image: images/membros/user.png
+    image: images/membros/raissa.png
     lattes: http://lattes.cnpq.br/4478932426760006
     linkedin: https://www.linkedin.com/in/raissa-sousa-057ab7169
     github: https://github.com/Raissa-melo
