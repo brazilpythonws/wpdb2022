@@ -192,12 +192,14 @@ service:
 apoio:
   enable: true
   apoio_item:
+   - image: images/apoio/esalq.png
+   - image: images/apoio/usp.png
+   - image: images/apoio/cena.png
+   - image: images/apoio/fealq.png
    - image: images/apoio/unesp.png
    - image: images/apoio/Botucatu-IB.png
-   - image: images/apoio/cena.png
-   - image: images/apoio/dc.png
    - image: images/apoio/ufscar.png
-   - image: images/apoio/fealq.png
+   - image: images/apoio/dc.png
    - image: images/apoio/alfahelix.png
   title: Apoio
 ---
