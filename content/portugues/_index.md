@@ -58,15 +58,6 @@ equipe:
     github:
     instagram: https://www.instagram.com/gustavocrestana
 #--------------
-  - name: José Bruno Malaquias
-    titulo: Bolsista de Pós Doutorado
-    faculdade: University of Arizona<br>(EUA)
-    image: images/membros/jose.jpg
-    lattes: http://lattes.cnpq.br/1103370910009848
-    linkedin: https://www.linkedin.com/in/jos%C3%A9-bruno-malaquias-1a962634/
-    github:
-    instagram: https://www.instagram.com/jbmalaquias
-#--------------
   - name: Larissa Graciano Braga
     titulo: Doutoranda em Ciência Animal
     faculdade: Universidade Estadual Paulista<br>(UNESP-Jaboticabal)
@@ -196,8 +187,6 @@ apoio:
    - image: images/apoio/usp.png
    - image: images/apoio/cena.png
    - image: images/apoio/fealq.png
-   - image: images/apoio/unesp.png
-   - image: images/apoio/Botucatu-IB.png
    - image: images/apoio/ufscar.png
    - image: images/apoio/dc.png
    - image: images/apoio/alfahelix.png
