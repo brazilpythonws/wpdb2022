@@ -11,7 +11,7 @@ banner:
 feature:
   enable: true
   feature_item:
-  - content: 06 de junho a 06 de julho de 2022
+  - content: 06 de junho a 15 de julho de 2022
     icon: fas fa-file
     name: Inscrições
   - content: 28 de agosto de 2022
