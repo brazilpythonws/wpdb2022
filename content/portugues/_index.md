@@ -122,7 +122,7 @@ equipe:
     instagram: https://www.instagram.com/renato.correa.182
 #--------------
   - name: Ricardo Cerri
-    titulo: Doutor em Ciência da Computação
+    titulo: Professor Doutor em Ciência da Computação
     faculdade: Universidade Federal de São Carlos<br>(UFSCar)
     image: images/membros/ricardo.jpg
     lattes: http://lattes.cnpq.br/6266519868438512
