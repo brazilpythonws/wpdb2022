@@ -2,7 +2,7 @@
 banner:
   button:
     enable: true
-    label: Inscreva-se
+    label: Inscreva-se!
     link: https://fealq.org.br/eventos/v-workshop-de-python-para-dados-biologicos/ 
   content: Aplicação de Python na análise de dados biológicos!
   image: images/front-page-python-clean.svg
