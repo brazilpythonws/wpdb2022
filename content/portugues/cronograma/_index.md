@@ -11,10 +11,10 @@ title: Cronograma
 |Horário|Atividade|
 |-------|---------|
 |8h30|Abertura - Apresentação inicial|
-|9h-12h|Live coding: Introdução à linguagem Python|
+|9h-12h|Live coding (LC): Introdução à linguagem Python|
 |12h-13h|Almoço|
 |13h-14h|Palestra|
-|14h-17h|Live coding: Introdução à linguagem Python|
+|14h-17h|Live coding (LC): Introdução à linguagem Python|
 |17h-18h|Dúvidas|
 
 
@@ -29,12 +29,12 @@ title: Cronograma
 |-------|---------|
 |8h30 |Introdução à linguagem Python|
 |10h - 10h30|Coffee-break|
-|10h30 - 12h|Revisão de estatística básica usando Python|
+|10h30 - 12h|LC: Introdução a Pandas e Matplotlib|
 |12h - 13h|Almoço|
 |13h - 13h40|Palestra|
-|14h - 15h30|Revisão de estatística básica usando Python|
+|14h - 15h30|LC: Introdução a Pandas e Matplotlib|
 |15h30 - 16h|Coffee-break|
-|16h - 18h|Revisão de estatística básica usando Python|
+|16h - 18h|Introdução a Pandas e Matplotlib|
 
 
 </p>
@@ -54,12 +54,11 @@ title: Cronograma
 
 |Horário|Atividade|
 |-------|---------|
-|8h-10h|Apresenção dos grupos|
-|10h|Apresentação inicial|
-|10h30-12h|Live coding: exploração aprofundada de dados epidemiológicos|
+|8h-10h|Apresentação dos grupos|
+|10h30-12h|LC: Exploração aprofundada de dados de zoologia e morfologia|
 |12h-13h|Almoço|
 |13h-14h|Palestra|
-|14h-17h|Live coding: exploração aprofundada de dados epidemiológicos|
+|14h-17h|LC: Exploração aprofundada de dados de zoologia e morfologia|
 |17h-18h|Dúvidas|
 
 
@@ -72,11 +71,11 @@ title: Cronograma
 |Horário|Atividade|
 |-------|---------|
 |8h30|Apresentação inicial|
-|9h-12h|Live coding: exploração aprofundada de dados de diversidade biológica|
+|9h-12h|LC: exploração aprofundada de dados de diversidade biológica|
 |12h-13h|Almoço|
 |13h-14h|Palestra|
 |14h-15h|Flash talks|
-|15h-17h|Live coding: exploração aprofundada de dados de diversidade biológica|
+|15h-17h|LC: exploração aprofundada de dados de diversidade biológica|
 |17h-18h|Fechamento do workshop|
 
 
