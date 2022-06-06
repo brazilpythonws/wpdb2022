@@ -1,5 +1,5 @@
-baseURL: http://examplesite.org/
-title: WPDB2022
+baseURL: https://wpdb2022.netlify.app/
+title: V Workshop Python para Dados Biológicos
 theme: bigspring-light
 paginate: '3'
 summaryLength: '15'
