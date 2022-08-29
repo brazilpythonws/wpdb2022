@@ -2,7 +2,8 @@
 banner:
   button:
     enable: true
-    label: Inscrições encerradas!
+    label: Primeira lista de Participantes
+    link: '/participantes'
   content: Aplicação de Python na análise de dados biológicos!
   image: images/front-page-python-clean.svg
   title: V Workshop Python<br>para Dados Biológicos
@@ -13,10 +14,10 @@ feature:
   - content: 06 de junho a 15 de julho de 2022
     icon: fas fa-file
     name: Inscrições
-  - content: 28 de agosto de 2022
+  - content: 29 de agosto de 2022
     icon: fas fa-users
     name: Primeira Lista de Participantes
-  - content: 28 de agosto e 28 de setembro de 2022
+  - content: 29 de agosto e 28 de setembro de 2022
     icon: fas fa-user-clock
     name: Chamadas da Lista de Espera	
   - content: 06 de setembro de 2022
