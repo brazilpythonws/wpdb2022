@@ -39,7 +39,7 @@ url = "palestras"
 
 [[footer_middle]]
 name = "Participantes Selecionados"
-url = "selecionados"
+url = "participantes"
 
 [[footer_right]]
 name = "FAQ"
