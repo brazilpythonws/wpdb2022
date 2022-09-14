@@ -2,7 +2,7 @@
 banner:
   button:
     enable: true
-    label: Primeira lista de Participantes
+    label: Lista Final de Participantes
     link: '/participantes'
   content: Aplicação de Python na análise de dados biológicos!
   image: images/front-page-python-clean.svg
