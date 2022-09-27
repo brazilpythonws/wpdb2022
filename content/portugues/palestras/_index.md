@@ -38,7 +38,8 @@ title: Palestras
   <div class="card-body">
     <h4 class="card-title">Boas práticas de programação e reprodutibilidade de scripts Python</h4>
     <h5>Me. Bruno Iochins Grisci</h5>
-    <h6 class="card-title mb-2 text-muted">Universidade Federal do Rio Grande do Sul (UFRGS)</h6>
+    <h6 class="card-title mb-2 text-muted">Doutorado em Computação - Universidade Federal do Rio Grande do Sul (UFRGS)</h6>
+    <h6 class="card-title mb-2 text-muted">Professor substituto - Instituto de Informática - UFRGS</h6>
      <p class="card-text"><i class="fas fa-calendar" ></i> Dia 4 - quinta (29/09/2022)<br>
      <a href="https://brunogrisci.github.io/" class="card-link"><i class="fas fa-link fa-2x" ></i></a>
      <a href="https://twitter.com/BrunoGrisci" class="card-link"><i class="fab fa-twitter fa-2x" ></i></a>
